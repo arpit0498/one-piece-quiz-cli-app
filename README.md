@@ -6,7 +6,7 @@
         <li>Used npm <code> chalk</code></li>
         <li>Show score on each step</li>
         <li>Show correct answer if player typed wrong answer</li>
-        <li>Show your total score in the end</li>
+        <li>Show your total score and previous high scores in the end</li>
 </ul>
 <hr></hr>
 
@@ -17,6 +17,7 @@
         <li>Quiz consists of ten questions</li>
         <li>Positive marks for correct answer</li>
         <li>No negative marking on wrong answers</li>
+   
 </ol>
 
 <hr></hr>
